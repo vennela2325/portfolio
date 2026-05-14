@@ -26,7 +26,7 @@ function App() {
       {/* Home */}
       <section id="home" className="home">
         <h1> I'm Vennela 👋</h1>
-        <p>ADeveloper skilled in Python, JavaScript, React JS, HTML5, CSS3, Git, and IBM API Connect with hands-on experience in web development, API management, and building responsive applicationsr</p>
+        <p>skilled in Python, JavaScript, React JS, HTML5, CSS3, Git, and IBM API Connect with hands-on experience in web development, API management, and building responsive applicationsr</p>
         <p>Email: vennelakothoju@gmail.com</p>
         <p>
   GitHub: <a href="https://github.com/vennela2325" target="_blank" rel="noreferrer">
